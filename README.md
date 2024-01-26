@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Soumya28Mishra
-- 👀 I’m interested in manual testing
-- 🌱 I’m currently learning manual testing
+- 👀 I’m interested in Automation testing
+- 🌱 I’m currently learning Automation testing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
